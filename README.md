@@ -6,7 +6,7 @@ posture.
 <br>
 
 ## Skills Learned
-- Asset discovery, vulnerability identification, risk evaluation, regulatory compliance mapping.
+- Asset discovery, vulnerability assesment, risk analysis and evaluation, regulatory compliance mapping.
 - Ability to translate highly technical cybersecurity terminology into actionable, data-driven business insights for non-technical stakeholders and leadership.
 <br>
 
