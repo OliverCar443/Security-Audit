@@ -1,23 +1,16 @@
-# Security Audit
+# Security Audit🔐🔍
 
 ## Objective
-The detection lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. the primary focus was to ingest and analyze logs within a security information and even management system, generating test telemetry to mimic real world attack scenarios. this hands on experience was designed to deepen my understanding of network security, attack paterns, and defensive strategies.
+To conduct a security posture audit for BCP LLC. Thoroughly assessing the organization’s security systems and procedures, i will look for and identify various security vulnerabilities and risks. After assessing existing assets and security, the goal is to determine which controls and compliance best practices need to be implemented to improve BCP LLC’s security 
+posture.
 <br>
 
 ## Skills Learned
-- Advanced understanding of siem concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem solving skills in cybersecurity.
+- Asset discovery, vulnerability identification, risk evaluation, regulatory compliance mapping.
+- Ability to translate highly technical cybersecurity terminology into actionable, data-driven business insights for non-technical stakeholders and leadership.
 <br>
 
-## Tools Used
+## Audit
 Name tool along with its purpose
 <br>
 
-## Steps
-Screenshots, Steps, etc
-
-Ref 1: TCP LOG
-<br>
