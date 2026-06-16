@@ -1,7 +1,7 @@
 # 🔐Security Audit🔍
 
 ## Objective
-To conduct a security posture audit for BCP LLC. Thoroughly assessing the organization’s security systems and procedures, i will look for and identify various security vulnerabilities and risks. After assessing existing assets and security, the goal is to determine which controls and compliance best practices need to be implemented to improve BCP LLC’s security 
+Conducting a security posture audit for BCP LLC. Thoroughly assessing the organization’s security systems and procedures, i will look for and identify various security vulnerabilities and risks. After assessing existing assets and security, the goal is to determine which controls and compliance best practices need to be implemented to improve BCP LLC’s security 
 posture.
 <br>
 
