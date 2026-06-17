@@ -1,13 +1,15 @@
 # 🔐Security Audit🔍
 
 ## Objective
-Conducting a security posture audit for BCP LLC. Thoroughly assessing the organization’s security systems and procedures, i will look for and identify various security vulnerabilities and risks. After assessing existing assets and security, the goal is to determine which controls and compliance best practices need to be implemented to improve BCP LLC’s security 
+To conduct a security posture audit for BCP LLC. Assessing the organization’s security systems and procedures, i will look for and identify various security vulnerabilities and risks. After assessing existing assets and security, the goal is to determine which controls and compliance best practices need to be implemented to improve BCP LLC’s security 
 posture.
 <br>
 
 ## Skills Learned
-- Asset discovery, vulnerability assesment, risk analysis and evaluation, regulatory compliance mapping.
-- Ability to translate highly technical cybersecurity terminology into actionable, data-driven business insights for non-technical stakeholders and leadership.
+- <ins> <u> **Vulnerability Identification:** </u> </ins> Able to find weaknesses in systems, applications, and configurations.
+- <ins> <u> **Asset Discovery & Management:** </u> </ins> Learned to inventory and classify hardware, software, and data assets across an organization.
+- <ins> <u> **Risk Quantification:** </u> </ins> Translated technical flaws into business risks to help stakeholders prioritize remediation efforts based on potential impact.
+- <ins> <u> **Compliance & Framework Mapping:** </u> </ins> Evualuated security controls against industry standards like NIST, ISO 27001, and GDRP.
 <br>
 
 ## Audit
